@@ -8,7 +8,7 @@ This is a weatherd dashboard made using JavaScript, HTML and CSS. It utilizes th
 ![Deployed Site](https://nsettyy.github.io/weather-dashboard/)
 
 ## Questions:
-If you have any questions, you may contact me at either Github: https://github.com/nsettyyor Email: nsett7388@gmail.com
+If you have any questions, you may contact me at either Github: https://github.com/nsettyy or Email: nsett7388@gmail.com
 
 ## License: MIT  ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
 Here is a [link](https://choosealicense.com/licenses/mit/) to the license I used.
